@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(254,243,247,255);
+    text-align: center;
+}
+
+h1 {
+    color: rgba(248, 81, 109, 0.87);
+    font-family: 'Gill Sans Extrabold', Helvetica, sans-serif;
+}
+
+p {
+    color: rgba(230, 115, 134, 0.795);
+    font-family: 'Gill Sans Extrabold', Helvetica, sans-serif;
+    font-size: 20px
+}
